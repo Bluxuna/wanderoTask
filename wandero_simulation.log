@@ -1,0 +1,6 @@
+2025-07-22 17:06:56,719 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 17:06:56,727 - INFO - Simulation bd891fce-3b1c-4bf7-baef-1823d8715c9a: Persona generated: Nina Kipshidze
+2025-07-22 17:06:59,380 - INFO - Simulation bd891fce-3b1c-4bf7-baef-1823d8715c9a: Initial email sent to giorgimaxara5@gmail.com
+2025-07-22 17:08:01,373 - INFO - Simulation bd891fce-3b1c-4bf7-baef-1823d8715c9a: Received reply: Re: Inquiry about Georgia Tour
+2025-07-22 17:08:02,205 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 17:08:04,297 - INFO - Simulation bd891fce-3b1c-4bf7-baef-1823d8715c9a: Reply sent: Re: Re: Inquiry about Georgia Tour
