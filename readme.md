@@ -25,20 +25,9 @@ Wandero ელფოსტის კლიენტის სიმულატ�
 
 1.  **რეპოზიტორის კლონირება:**
 
-    ```bash
-    git clone [https://github.com/your-username/wandero-email-simulator.git](https://github.com/your-username/wandero-email-simulator.git)
-    cd wandero-email-simulator
-    ```
-
 2.  **ვირტუალური გარემოს შექმნა და გააქტიურება:**
 
-    ```bash
-    python -m venv venv
-    # Windows
-    .\venv\Scripts\activate
-    # macOS/Linux
-    source venv/bin/activate
-    ```
+
 
 3.  **დამოკიდებულებების დაყენება:**
 
